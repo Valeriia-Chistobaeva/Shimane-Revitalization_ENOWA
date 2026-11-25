@@ -110,3 +110,11 @@ With appropriate privacy protections, evaluate whether people can find and reach
 ---
 
 *Source: [Shared ChatGPT conversation — Research Shimane Demographics and Support](https://chatgpt.com/share/6b019f6c-86e4-83e8-a91d-bad920d2b7d7). This document describes a proposed concept; partnerships, service availability, costs and implementation details require validation.*
+
+---
+
+# Prototype
+
+Open `index.html` in a modern browser to try the responsive ENOWA web prototype. No installation or server is required. Switch between English and Japanese using the language button. Explore the sample directory by topic, municipality or search; try the checklist and the simulated contact flow.
+
+Directory entries are fictional examples, and the contact form does not send or retain a request. Checklist progress and language preference are stored locally in the browser. This prototype is not a production service; real listings, translations, accessibility, referral arrangements, privacy and health content need review before launch.
